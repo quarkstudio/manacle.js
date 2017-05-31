@@ -1,0 +1,20 @@
+{
+  "name": "manacle",
+  "description": "Lightweight ACL for Node.js and the browser",
+  "main": "manacle.js",
+  "authors": [
+    "Scott Nelson <scottbnel@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "acl"
+  ],
+  "homepage": "https://github.com/quarkstudio/manacle.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
